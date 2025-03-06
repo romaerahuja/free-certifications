@@ -16,7 +16,7 @@ This project is a simple, responsive webpage listing various platforms offering 
 
 ## Live Preview
 
-You can access the live version of this webpage here: [Free Certifications Website](https://r0m43r.github.io/Free-Certifications/)
+You can access the live version of this webpage here: [Free Certifications Website](https://romaerahuja.github.io/free-certifications/)
 
 ## List of Free Certification Providers
 
