@@ -45,7 +45,7 @@ The webpage provides links to the following platforms offering free certificatio
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/free-certifications.git
+   git clone https://github.com/romaerahuja/free-certifications.git
    ```
 2. Navigate to the project directory:
    ```sh
