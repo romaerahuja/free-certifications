@@ -16,7 +16,7 @@ This project is a simple, responsive webpage listing various platforms offering 
 
 ## Live Preview
 
-You can access the live version of this webpage here: [Your Website Link]
+You can access the live version of this webpage here: [Free Certifications Website](https://r0m43r.github.io/Free-Certifications/)
 
 ## List of Free Certification Providers
 
@@ -45,7 +45,7 @@ The webpage provides links to the following platforms offering free certificatio
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/R0M43R/Free-Certifications.git
+   git clone https://github.com/yourusername/free-certifications.git
    ```
 2. Navigate to the project directory:
    ```sh
